@@ -1,0 +1,76 @@
+
+
+#logo {margin: 10px;
+width:75%;}
+
+.title-text-news{
+	font-family: 'Times New Roman', Times, serif;
+	font-size:320%;
+	margin-top: 40px;}
+
+.text-news{ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size:76%;	
+	color: white;
+	margin-left:20px;}
+
+#proyectos-slider{
+	font-size:75px;
+}
+#footer-text{margin-left: -30px;}
+
+.WhatssApp{
+	z-index: -100000px;
+	position: absolute;
+
+}
+
+
+#pedir-cita{
+
+	position: absolute;
+	z-index: -100000px;
+	margin-left:  90%;
+	margin-bottom: -10%;
+	padding:   1% 8% 2% 1%;
+
+
+}
+
+
+#contacto{
+
+	position: absolute;
+	z-index: -100000px;
+	margin-left:  75%;
+	margin-bottom: -10%;
+	padding:   1% 8% 2% 1%; 
+
+	
+}
+
+
+
+
+
+#scrollUp {
+	bottom: 110px;
+	right: 3%;
+	width:30px;
+	height:30;
+	background: url(../img/top.png) ;
+	background-size: cover;
+  }
+
+   body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .card-text-space{
+	  margin-left:10px;
+  }
